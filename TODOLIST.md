@@ -8,7 +8,6 @@ Status: In Progress
 ## 🔧 Core Tasks
 - [ ] Hire modeler
 - [ ] Add loading screen
-- [ ] Balance scissors
 - [ ] Add new scissors
 
 ---
@@ -39,6 +38,7 @@ Status: In Progress
 ## ✅ Completed
 - [x] Add brainrots animation to different mutations
 - [x] Switching tools while one is equipped leaves effects active
+- [x] Balance scissors
 - [x] Replace basic scissors icon with different variants scissors icons
 - [x] Add brainrot holding animation
 - [x] Add at least 3–5 more unique waves
