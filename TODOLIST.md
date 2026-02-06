@@ -6,58 +6,59 @@ Status: In Progress
 ---
 
 ## 🔧 Core Tasks
-- [ ] Fix admin command: waves stop not showing every 30s and check stacking
-- [ ] Fix player speed on join (not slow mode)
-- [ ] Fix UI not updating speed on join
 - [ ] Hire modeler
-- [ ] Make scissors icons
-- [ ] Add carry system
-- [ ] Add carry admin command
-- [ ] Fix brainrots in inventory when rejoining while being held
 - [ ] Add loading screen
 - [ ] Balance scissors
 - [ ] Add new scissors
-- [ ] Add disable waves product (9 Robux)
 
 ---
 
 ## 🧠 Gameplay & Systems
 - [ ] Remake UI
-- [ ] Add brainrot holding animation
-- [ ] Remake scissors
-- [ ] Replace pickaxe icons with scissors icons
-- [ ] Add at least 3–5 more unique waves
-- [ ] Add brainrots stealing
-- [ ] Add brainrots gifting
+- [ ] Remake Bases
 
 ---
 
 ## 🐞 Bugs to Fix
-- [ ] Scissors unboxing animation not working after respawn
-- [ ] Money display bug when value is too high (negative number shown)
-- [ ] Switching tools while one is equipped leaves effects active
-- [ ] Fix brainrots disappearing on death or rejoin (inventory related)
 
 ---
 
 ## 🧪 Optional / Nice to Have
 - [ ] Remake map because of possible DMCA
 - [ ] Replace chat admin commands with an admin panel
+- [ ] Money display bug when value is too high (negative number shown)
+- [ ] Add brainrots stealing
+- [ ] Remake Scissors
+- [ ] Add brainrots gifting
+- [ ] Add carry system
+- [ ] Add carry admin command
+- [ ] Fix brainrots in inventory when rejoining while being held
 
 ---
 
 ## ✅ Completed
 - [x] Add brainrots animation to different mutations
+- [x] Switching tools while one is equipped leaves effects active
+- [x] Replace basic scissors icon with different variants scissors icons
+- [x] Add brainrot holding animation
+- [x] Add at least 3–5 more unique waves
+- [x] Add disable waves product (9 Robux)
 - [x] Add speed admin command
 - [x] Make boxes spawn in correct areas
+- [x] Scissors unboxing animation not working after respawn
+- [x] Fix brainrots disappearing on death or rejoin (inventory related)
 - [x] Improve performance / reduce lag
 - [x] Add houses to upgrade avatars
 - [x] Add speed upgrades
 - [x] Add carry upgrades
+- [x] Make scissors icons
 - [x] Add or change brainrot models
 - [x] Flying carpet light effects fixed
 - [x] Rebirth with equipped tool bug fixed
 - [x] Brainrots appear correctly on plot
+- [x] Fix admin command: waves stop not showing every 30s and check stacking
+- [x] Fix player speed on join (not slow mode)
+- [x] Fix UI not updating speed on join
 
 ---
 
