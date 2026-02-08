@@ -5,20 +5,23 @@ Status: In Progress
 
 ---
 
-## 🔧 Core Tasks
+## 🔧 Tasks
 - [ ] Hire modeler
 - [ ] Add loading screen
-- [ ] Add new scissors
-
----
-
-## 🧠 Gameplay & Systems
 - [ ] Remake UI
 - [ ] Remake Bases
+- [ ] Add Bats (When hit, drop carried brainrot in collection zone)
+- [ ] Add Global Waves Command (;gwaves <clear/stop> [seconds])
+- [ ] Add different scissors with special effects (e.g. more luck)
+- [ ] Nerf Rebirthing (too good)
+- [ ] Add titles (e.g. Unbox 100 boxes = Unboxer Title)
 
 ---
 
 ## 🐞 Bugs to Fix
+- [ ] Fix Brainrots floating when unboxed (anchored / collissions bug)
+- [ ] Dont spawn another box when one got opened
+- [ ] Make index list brainrots in order (lowest to highest income)
 
 ---
 
@@ -27,6 +30,8 @@ Status: In Progress
 - [ ] Replace chat admin commands with an admin panel
 - [ ] Money display bug when value is too high (negative number shown)
 - [ ] Add brainrots stealing
+- [ ] Add gifting
+- [ ] Add stealing
 - [ ] Remake Scissors
 - [ ] Add brainrots gifting
 - [ ] Add carry system
