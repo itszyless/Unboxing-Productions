@@ -13,15 +13,13 @@ Status: In Progress
 - [ ] Add Bats (When hit, drop carried brainrot in collection zone)
 - [ ] Add Global Waves Command (;gwaves <clear/stop> [seconds])
 - [ ] Add different scissors with special effects (e.g. more luck)
-- [ ] Nerf Rebirthing (too good)
 - [ ] Add titles (e.g. Unbox 100 boxes = Unboxer Title)
 
 ---
 
 ## 🐞 Bugs to Fix
 - [ ] Fix Brainrots floating when unboxed (anchored / collissions bug)
-- [ ] Dont spawn another box when one got opened
-- [ ] Make index list brainrots in order (lowest to highest income)
+- [ ] Make Inventory Sorted
 
 ---
 
@@ -47,9 +45,12 @@ Status: In Progress
 - [x] Replace basic scissors icon with different variants scissors icons
 - [x] Add brainrot holding animation
 - [x] Add at least 3–5 more unique waves
+- [x] Dont spawn another box when one got opened
+- [x] Make index list brainrots in order (lowest to highest income)
 - [x] Add disable waves product (9 Robux)
 - [x] Add speed admin command
 - [x] Make boxes spawn in correct areas
+- [x] Nerf Rebirthing (too good)
 - [x] Scissors unboxing animation not working after respawn
 - [x] Fix brainrots disappearing on death or rejoin (inventory related)
 - [x] Improve performance / reduce lag
