@@ -6,20 +6,16 @@ Status: In Progress
 ---
 
 ## 🔧 Tasks
-- [ ] Hire modeler
 - [ ] Add loading screen
 - [ ] Remake UI
 - [ ] Remake Bases
 - [ ] Add Bats (When hit, drop carried brainrot in collection zone)
-- [ ] Add Global Waves Command (;gwaves <clear/stop> [seconds])
 - [ ] Add different scissors with special effects (e.g. more luck)
 - [ ] Add titles (e.g. Unbox 100 boxes = Unboxer Title)
 
 ---
 
 ## 🐞 Bugs to Fix
-- [ ] Fix Brainrots floating when unboxed (anchored / collissions bug)
-- [ ] Make Inventory Sorted
 
 ---
 
@@ -27,11 +23,8 @@ Status: In Progress
 - [ ] Remake map because of possible DMCA
 - [ ] Replace chat admin commands with an admin panel
 - [ ] Money display bug when value is too high (negative number shown)
-- [ ] Add brainrots stealing
 - [ ] Add gifting
 - [ ] Add stealing
-- [ ] Remake Scissors
-- [ ] Add brainrots gifting
 - [ ] Add carry system
 - [ ] Add carry admin command
 - [ ] Fix brainrots in inventory when rejoining while being held
@@ -41,14 +34,22 @@ Status: In Progress
 ## ✅ Completed
 - [x] Add brainrots animation to different mutations
 - [x] Switching tools while one is equipped leaves effects active
+- [x] Make Scissors Hold Work On Touch Screen
 - [x] Balance scissors
 - [x] Replace basic scissors icon with different variants scissors icons
 - [x] Add brainrot holding animation
+- [x] Hire modeler
+- [x] Fix Tutorial
+- [x] Make Inventory Sorted
+- [x] Fix Brainrots floating when unboxed (anchored / collissions bug)
 - [x] Add at least 3–5 more unique waves
 - [x] Dont spawn another box when one got opened
+- [x] Delay Brainrot Name Sounds
 - [x] Make index list brainrots in order (lowest to highest income)
+- [x] Add Global Waves Command (;gwaves <clear/stop> [seconds])
 - [x] Add disable waves product (9 Robux)
 - [x] Add speed admin command
+- [x] Remake Scissors
 - [x] Make boxes spawn in correct areas
 - [x] Nerf Rebirthing (too good)
 - [x] Scissors unboxing animation not working after respawn
