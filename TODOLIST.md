@@ -12,22 +12,26 @@ Status: In Progress
 - [ ] Add Bats (When hit, drop carried brainrot in collection zone)
 - [ ] Add different scissors with special effects (e.g. more luck)
 - [ ] Add titles (e.g. Unbox 100 boxes = Unboxer Title)
+- [ ] Change Prompt UI and change TapIcon to brainrot item icon
+- [ ] Sell System
+- [ ] Remake map because of possible DMCA
 
 ---
 
 ## 🐞 Bugs to Fix
+- [ ] Fix Drop Items (SpawnDroppedItems - ItemManager)
+- [ ] Fix ReorganizeBackpack Function
+- [ ] Fix brainrots in inventory when rejoining while being held
 
 ---
 
 ## 🧪 Optional / Nice to Have
-- [ ] Remake map because of possible DMCA
 - [ ] Replace chat admin commands with an admin panel
 - [ ] Money display bug when value is too high (negative number shown)
 - [ ] Add gifting
 - [ ] Add stealing
 - [ ] Add carry system
 - [ ] Add carry admin command
-- [ ] Fix brainrots in inventory when rejoining while being held
 
 ---
 
