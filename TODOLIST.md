@@ -23,7 +23,6 @@ Status: In Progress
 ## 🧪 Optional / Nice to Have
 - [ ] Loading Screen
 - [ ] Change music
-- [ ] Fix brainrots collision after respawn (death)
 - [ ] Replace chat admin commands with an admin panel
 - [ ] Money display bug when value is too high (negative number shown)
 - [ ] Add gifting
@@ -43,6 +42,7 @@ Status: In Progress
 - [x] Replace basic scissors icon with different variants scissors icons
 - [x] Fix Drop Items (SpawnDroppedItems - ItemManager)
 - [x] Add brainrot holding animation
+- [x] Fix brainrots collision after respawn (death)
 - [x] Hire modeler
 - [x] Add Bats (When hit, drop carried brainrot in collection zone)
 - [x] Fix Tutorial
