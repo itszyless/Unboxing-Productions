@@ -6,10 +6,6 @@ Status: In Progress
 ---
 
 ## 🔧 Tasks
-- [ ] Add loading screen
-- [ ] Remake UI
-- [ ] Remake Bases
-- [ ] Add Bats (When hit, drop carried brainrot in collection zone)
 - [ ] Add different scissors with special effects (e.g. more luck)
 - [ ] Add titles (e.g. Unbox 100 boxes = Unboxer Title)
 - [ ] Change Prompt UI and change TapIcon to brainrot item icon
@@ -19,13 +15,15 @@ Status: In Progress
 ---
 
 ## 🐞 Bugs to Fix
-- [ ] Fix Drop Items (SpawnDroppedItems - ItemManager)
 - [ ] Fix ReorganizeBackpack Function
 - [ ] Fix brainrots in inventory when rejoining while being held
 
 ---
 
 ## 🧪 Optional / Nice to Have
+- [ ] Loading Screen
+- [ ] Change music
+- [ ] Fix brainrots collision after respawn (death)
 - [ ] Replace chat admin commands with an admin panel
 - [ ] Money display bug when value is too high (negative number shown)
 - [ ] Add gifting
@@ -38,11 +36,15 @@ Status: In Progress
 ## ✅ Completed
 - [x] Add brainrots animation to different mutations
 - [x] Switching tools while one is equipped leaves effects active
+- [x] Remake UI
+- [x] Remake Bases
 - [x] Make Scissors Hold Work On Touch Screen
 - [x] Balance scissors
 - [x] Replace basic scissors icon with different variants scissors icons
+- [x] Fix Drop Items (SpawnDroppedItems - ItemManager)
 - [x] Add brainrot holding animation
 - [x] Hire modeler
+- [x] Add Bats (When hit, drop carried brainrot in collection zone)
 - [x] Fix Tutorial
 - [x] Make Inventory Sorted
 - [x] Fix Brainrots floating when unboxed (anchored / collissions bug)
