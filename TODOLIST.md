@@ -6,14 +6,16 @@ Status: In Progress
 ---
 
 ## 🔧 Tasks
-- [ ] Add different scissors with special effects (e.g. more luck)
-- [ ] Add titles (e.g. Unbox 100 boxes = Unboxer Title)
-- [ ] Sell System
 - [ ] Remake map because of possible DMCA
+- [ ] Sell System
+- [ ] Add stealing
 
 ---
 
 ## 🐞 Bugs to Fix
+- [ ] Fix Scissors holding mobile
+- [ ] Fix Carry Animation visible for everyone
+- [ ] Add gifting
 
 ---
 
@@ -22,8 +24,8 @@ Status: In Progress
 - [ ] Change music
 - [ ] Replace chat admin commands with an admin panel
 - [ ] Money display bug when value is too high (negative number shown)
-- [ ] Add gifting
-- [ ] Add stealing
+- [ ] Add different scissors with special effects (e.g. more luck)
+- [ ] Add titles (e.g. Unbox 100 boxes = Unboxer Title)
 - [ ] Add carry system
 - [ ] Add carry admin command
 
