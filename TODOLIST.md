@@ -8,15 +8,12 @@ Status: In Progress
 ## 🔧 Tasks
 - [ ] Add different scissors with special effects (e.g. more luck)
 - [ ] Add titles (e.g. Unbox 100 boxes = Unboxer Title)
-- [ ] Change Prompt UI and change TapIcon to brainrot item icon
 - [ ] Sell System
 - [ ] Remake map because of possible DMCA
 
 ---
 
 ## 🐞 Bugs to Fix
-- [ ] Fix ReorganizeBackpack Function
-- [ ] Fix brainrots in inventory when rejoining while being held
 
 ---
 
@@ -42,6 +39,8 @@ Status: In Progress
 - [x] Replace basic scissors icon with different variants scissors icons
 - [x] Fix Drop Items (SpawnDroppedItems - ItemManager)
 - [x] Add brainrot holding animation
+- [x] Fix ReorganizeBackpack Function
+- [x] Fix brainrots in inventory when rejoining while being held
 - [x] Fix brainrots collision after respawn (death)
 - [x] Hire modeler
 - [x] Add Bats (When hit, drop carried brainrot in collection zone)
