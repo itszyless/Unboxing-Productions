@@ -7,27 +7,19 @@ Status: In Progress
 
 ## 🔧 Tasks
 - [ ] Remake map because of possible DMCA
-- [ ] Sell System
 - [ ] Add stealing
 
 ---
 
 ## 🐞 Bugs to Fix
-- [ ] Fix Scissors holding mobile
 - [ ] Fix Carry Animation visible for everyone
-- [ ] Add gifting
 
 ---
 
 ## 🧪 Optional / Nice to Have
 - [ ] Loading Screen
 - [ ] Change music
-- [ ] Replace chat admin commands with an admin panel
 - [ ] Money display bug when value is too high (negative number shown)
-- [ ] Add different scissors with special effects (e.g. more luck)
-- [ ] Add titles (e.g. Unbox 100 boxes = Unboxer Title)
-- [ ] Add carry system
-- [ ] Add carry admin command
 
 ---
 
@@ -35,7 +27,9 @@ Status: In Progress
 - [x] Add brainrots animation to different mutations
 - [x] Switching tools while one is equipped leaves effects active
 - [x] Remake UI
+- [x] Add gifting
 - [x] Remake Bases
+- [x] Sell System
 - [x] Make Scissors Hold Work On Touch Screen
 - [x] Balance scissors
 - [x] Replace basic scissors icon with different variants scissors icons
